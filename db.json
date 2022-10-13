@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "company": "GOOG Google Inc.","last_trade":"597.74","trade_time":"12:12PM","change":"14.81 (2.54%)","prev_close":"532.93","open":"597.95","bid":"597.73 x 100","ask":"597.91 x 300","ly_target_est":"731.10","lorem":"panning cell","ipsum":"" },
+    { "id": 2, "company": "Apple Inc.","last_trade":"345.74","trade_time":"9:12PM","change":"12.83 (34.54%)","prev_close":"2322.93","open":"597.95","bid":"597.73 x 100","ask":"597.91 x 300","ly_target_est":"731.10","lorem":"panning cell","ipsum":"" },
+    { "id": 3, "company": "CSCO Cisco Inc.","last_trade":"345.74","trade_time":"23:12PM","change":"33.33 (23.32%)","prev_close":"442.33","open":"597.95","bid":"597.73 x 100","ask":"597.91 x 300","ly_target_est":"731.10","lorem":"panning cell","ipsum":"" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
